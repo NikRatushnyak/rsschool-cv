@@ -1,6 +1,6 @@
 # Resume 
 # Nikita Ratushnyak
-
+<img src='https://drive.google.com/file/d/1CWKOT1-4ha9JDb-swABIovViAMEqQAfo/view?usp=sharing>' alt='Foto Nik' width="150" style="float:right; margin-left:15px; border-radius:8px; border:1px solid #ddd;">
 ## Contacts:
 
 * Phone: +7 900 385 26 32
