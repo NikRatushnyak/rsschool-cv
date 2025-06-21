@@ -1,6 +1,6 @@
 # Resume 
 # Nikita Ratushnyak
-<img src='https://drive.google.com/file/d/1CWKOT1-4ha9JDb-swABIovViAMEqQAfo/view?usp=sharing>' alt='Foto Nik' width="150" style="float:right; margin-left:15px; border-radius:8px; border:1px solid #ddd;">
+<img src='rsscool-cv/img/foto_resume.jfif'alt='Nikita Ratushnyak' width='200'/>
 ## Contacts:
 
 * Phone: +7 900 385 26 32
@@ -28,7 +28,7 @@
 ## Code Example:
 
 ### Task: "Code as fast as you can! You need to double the integer and return it."
-```javascript
+```
 
 function doubleInteger(i) {
 
