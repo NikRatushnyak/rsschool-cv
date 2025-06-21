@@ -1,6 +1,7 @@
 # Resume 
 # Nikita Ratushnyak
-<img src='rsscool-cv/img/foto_resume.jfif'alt='Nikita Ratushnyak' width='200'/>
+<img src='rsscool-cv/img/foto_resume.jpg'alt='Nikita Ratushnyak' width="150" style="float:right; margin-left:15px; border-radius:8px; border:1px solid #ddd;">
+
 ## Contacts:
 
 * Phone: +7 900 385 26 32
