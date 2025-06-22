@@ -1,5 +1,5 @@
 # Resume 
-# Nikita Ratushnyak <img src="./img/foto_resume.jpg" alt="Nikita Ratushnyak" width="150" style="vertical-align: top; float: right; margin-left: 15px; border-radius: 8px; border: 1px solid #ddd;"/>
+# Nikita Ratushnyak <img src="./img/foto_resume.jpg" alt="Nikita Ratushnyak" width="150" style="vertical-align: top; float: right; margin-left: 15px; margin-top: 40px; border-radius: 8px; border: 1px solid #ddd;"/>
 
 ## Contacts:
 
