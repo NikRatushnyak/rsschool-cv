@@ -29,7 +29,7 @@
 ## Code Example:
 
 ### Task: "Code as fast as you can! You need to double the integer and return it."
-```
+``` javascript
 
 function doubleInteger(i) {
 
