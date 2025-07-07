@@ -1,0 +1,117 @@
+html, body {
+    min-height: 100%;
+    font-family: "newFont", sans-serif;
+}
+
+@font-face {
+        font-family: "newFont";
+        src: url("font/EBGaramond-italic.woff");
+        src: url("font/EBGaramond-italic.woff2");
+    }
+
+body {
+    background: linear-gradient(rgb(132, 132, 136), rgb(102, 214, 248));
+}
+.left_panel {
+
+    width: 300px;
+    border-radius: 10px;
+    min-width: 300px;
+    gap: 24px;
+    padding: 32px;
+    background: rgba(205, 229, 250, 0.8);
+    
+}
+.user_foto_container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.foto_user{
+    border-radius: 100px;
+}
+
+.name {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color: black;
+
+}
+
+.last_name {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color: black;
+}
+
+.surname {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color: black;
+}
+.name_panel {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+    gap: 4px;
+}
+
+.contact {
+    width: 300px;
+    border-radius: 10px;
+    min-width: 300px;
+    gap: 24px;
+    padding: 0;
+    margin-right: 140px;
+    margin-top: 10px;
+}
+.design {
+    width: 300px;
+    border-radius: 10px;
+    min-width: 300px;
+    gap: 24px;
+    padding: 32px;
+    background: rgb(222, 223, 224);
+    margin-top: 10px;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid rgba(123, 123, 123, 0.2);
+    gap: 16px;
+    padding: 20px;
+    margin-top: 100px;
+
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.right_panel {
+    width: 300px;
+    border-radius: 10px;
+    min-width: 300px;
+    gap: 24px;
+    padding: 32px;
+    background: rgba(205, 229, 250, 0.8);
+    
+}
+.totalPanel {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.about {
+    padding: 0;
+}
+
